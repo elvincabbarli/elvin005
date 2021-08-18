@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @elvin005
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning Jquery/React Js
+- 🌱 I’m currently learning PHP/React Js
 - 📫 You can reach me with gmail
 
 <!---
